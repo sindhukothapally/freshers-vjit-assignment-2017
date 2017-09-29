@@ -1,0 +1,39 @@
+
+                                              RESTAURANT MANAGEMENT SYSTEM
+    
+INTRODUCTION :
+Restaurant Management Systems are the crucial technology components that enable a single outlet or enterprise to better serve its customers and aid employees with food and beverage transactions and controls.
+This system is developed to provide service facility to restaurant and also to the customer. This restaurant management system can be used by employees in a restaurant to handle the clients, their orders and can help them easily find free tables or place orders. 
+
+LITERATURE SURVEY :
+Literature survey helps to provide solutions with an easy way. And it also provides some knowledge regarding the technology.
+Introduction to Java :
+Initially the language was called as "oak" but it was renamed as "java" in 1995. The primary motivation of this language was the need for a platform-independent language. Java is a programmer's language. Java is cohesive and consistent. Finally, Java is to Internet Programming where C was to System Programming.
+
+Java Architecture :
+Java architecture provides a portable, robust, high performing environment for development. Java provides portability by compiling the byte codes for the Java Virtual Machine, which is then interpreted on each platform by the run-time environment. Java is a dynamic system, able to load code when needed from a machine in the same room or across the planet.
+
+REQUIREMENT ANALYSIS :
+Requirement analysis is done in order to understand the problem of the software system is to solve. The problem could be automating an existing manual process, developing a new automated system, or a combination of two. For large systems that have many features, and that need to perform many different tasks, understanding the requirements of the system is a major task.
+
+Functional Requirements :
+-> A food menu which lists various sections having items inside each.
+-> A price chart associated with every item on the menu.
+-> The customers who visit the restaurent.
+-> Hosts and hostesses who allot customers tables or queue them up if all tables are in use.
+-> Bus boys who serve water, clean tables, lay out fresh cloth, etc.
+-> Managers who take initial orders, receive complaints, prepare and hand out the bills, etc.
+-> Servers who serve the food on the table.
+-> Executive chef who receives orders and expedites food preparation.
+-> Line cooks who prepare the food.
+-> Order register where the customer orders are stored.
+-> Cash register where bills are generated and payments are stored.
+-> Feedback system where customer complaints and feedback comments are stored.
+-> The general restaurant facilities such as tables, chairs, utensils, so on so forth.
+
+Quality Requirements :
+Reliability : The system is more reliable because of the qualities that are inherited from the chosen platform java. The code built by using java is more reliable.
+
+Supportability : The system is designed to be the cross platform supportable.
+
+TestCases : All the test cases that are applied on the application should be passed thus ensuring the efficiency of the applications.
